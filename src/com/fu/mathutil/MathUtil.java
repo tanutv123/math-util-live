@@ -9,7 +9,7 @@ package com.fu.mathutil;
  * @author ASUS
  */
 public class MathUtil {
-
+//cc
     /**
      * @param args the command line arguments
      */
